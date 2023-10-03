@@ -186,7 +186,7 @@ function resetLocalStorage() {
                 <span class="text-blue-300">
                   {{ resultItem.filamentDiameter }}
                 </span>
-                m
+                mm
               </p>
             </div>
             <div>
